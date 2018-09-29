@@ -31,6 +31,8 @@ public class Robot extends IterativeRobot {
 	@Override
 	public void teleopInit() {
 		// do something useful
+		
+		// even more useful
 	}
 
 	@Override
